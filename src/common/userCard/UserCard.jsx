@@ -4,7 +4,7 @@ const UserCard = ({userData}) => {
     const {img, time, position, type, country} = userData
 
   return (
-    <div className='rounded-lg bg-white p-5 relative h-[12rem]'>
+    <div className='rounded-lg bg-white p-5 relative h-[13rem] hover:cursor-pointer mt-[2rem]'>
         <div className=''>
             <img className='absolute -top-6' src={img} alt="" />
         </div>

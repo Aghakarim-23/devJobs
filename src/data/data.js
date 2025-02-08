@@ -19,84 +19,108 @@ const userData = [
         time: "5h ago Full Time",
         position: "Senior Software Engineer",
         type: "Scoot",
-        country: "United Kingdom"
+        country: "United Kingdom",
+        site: "scoot.com"
     },
     {
         img: img2,
         time: "20h ago Part Time",
         position: "Haskell and PureScript Dev",
         type: "Blogr",
-        country: "United States"
+        country: "United States",
+        site: "blogr.com"
+
     },
     {
         img: img3,
         time: "1d ago Part Time",
         position: "Midlevel Back End Engineer",
         type: "Vector",
-        country: "Russia"
+        country: "Russia",
+        site: "vector.com"
+
     },
     {
         img: img4,
         time: "2d ago Full Time",
         position: "Senior Application Engineer",
         type: "Office Lite",
-        country: "Japan"
+        country: "Japan",
+        site: "officelite.com"
+
     },
     {
         img: img5,
         time: "2d ago Part Time",
         position: "Remote DevOps Engineer",
         type: "Pod",
-        country: "Thailand"
+        country: "Thailand",
+        site: "pod.com"
+
     },
     {
         img: img6,
         time: "4d ago Part Time",
         position: "Desktop Support Manager",
         type: "Creative",
-        country: "Germany"
+        country: "Germany",
+        site: "creative.com"
+
+
     },
     {
         img: img7,
         time: "1w ago Full Time",
         position: "iOS Engineer",
         type: "Pomodoro",
-        country: "United States"
+        country: "United States",
+        site: "pomodoro.com"
+
     },
     {
         img: img8,
         time: "1w ago Full Time",
         position: "Senior EJB Developer",
         type: "Maker",
-        country: "United Kingdom"
+        country: "United Kingdom",
+        site: "maker.com"
+
     },
     {
         img: img9,
         time: "1w ago Part Time",
         position: "Senior Frontend Developer",
         type: "Coffeeroasters",
-        country: "Singapore "
+        country: "Singapore ",
+        site: "coffeeroasters.com"
+
     },
     {
         img: img10,
         time: "2w ago Freelance",
         position: "App & Website Designer",
         type: "Mastercraft",
-        country: "United States "
+        country: "United States ",
+        site: "mastercraft.com"
+
     },
     {
         img: img11,
         time: "1m ago Part Time",
         position: "Fullstack Developer",
         type: "Crowdfund",
-        country: "New Zealand"
+        country: "New Zealand",
+        site: "crowdfund.com"
+        
     },
     {
         img: img12,
         time: "4d ago Part Time",
         position: "Technical Lead Engineer",
         type: "Typemaster",
-        country: "United Kingdom"
+        country: "United Kingdom",
+        site: "typemaster.com"
+
     },
 ]
 

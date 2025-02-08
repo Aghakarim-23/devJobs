@@ -2,6 +2,7 @@ import React from "react";
 import userData  from "../../data/data.js";
 import UserCard from "../../common/userCard/UserCard.jsx";
 import Header from "../../common/header/Header.jsx";
+import LoadMore from "./components/LoadMore.jsx";
 
 const Home = () => {
   return (
@@ -12,6 +13,9 @@ const Home = () => {
           <UserCard key={index} userData={user} />
         ))}
     </div>
+          <LoadMore/>
+        
+      
     </div>
   );
 };
